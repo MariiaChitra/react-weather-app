@@ -1,0 +1,54 @@
+.weather-app {
+  max-width: 700px;
+  margin: 80px auto;
+  padding: 48px;
+  border: 5px solid #87c7f8;
+}
+
+h1,
+h2,
+h3,
+h5 {
+  color: #939aa9;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+.current-weather-icon {
+  font-size: 90px;
+}
+.col {
+  color: #939aa9;
+}
+
+.icon {
+  color: #939aa9;
+}
+h4 {
+  color: #1d6ec5;
+}
+a {
+  text-decoration: none;
+}
+
+div {
+  display: block;
+}
+
+.day-weather {
+  text-align: center;
+}
+
+.day-weather > .info {
+  font-size: small;
+}
+
+.city {
+  font-size: small;
+}
